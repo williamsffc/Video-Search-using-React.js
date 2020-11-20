@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Video-Search-using-React.js/static/css/main.f9e9cc30.chunk.css",
+    "main.js": "/Video-Search-using-React.js/static/js/main.087af764.chunk.js",
+    "main.js.map": "/Video-Search-using-React.js/static/js/main.087af764.chunk.js.map",
+    "runtime-main.js": "/Video-Search-using-React.js/static/js/runtime-main.c7751c88.js",
+    "runtime-main.js.map": "/Video-Search-using-React.js/static/js/runtime-main.c7751c88.js.map",
+    "static/js/2.3b8f9923.chunk.js": "/Video-Search-using-React.js/static/js/2.3b8f9923.chunk.js",
+    "static/js/2.3b8f9923.chunk.js.map": "/Video-Search-using-React.js/static/js/2.3b8f9923.chunk.js.map",
+    "index.html": "/Video-Search-using-React.js/index.html",
+    "static/css/main.f9e9cc30.chunk.css.map": "/Video-Search-using-React.js/static/css/main.f9e9cc30.chunk.css.map",
+    "static/js/2.3b8f9923.chunk.js.LICENSE.txt": "/Video-Search-using-React.js/static/js/2.3b8f9923.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7751c88.js",
+    "static/js/2.3b8f9923.chunk.js",
+    "static/css/main.f9e9cc30.chunk.css",
+    "static/js/main.087af764.chunk.js"
+  ]
+}
